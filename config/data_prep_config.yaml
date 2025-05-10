@@ -1,0 +1,21 @@
+general:
+  project_root: "./"
+
+data:
+  raw_data_path: "data/raw/ner_dataset.csv"
+  processed_data_path: "data/processed/"
+  train_file: "train.pkl"
+  val_file: "val.pkl"
+  test_file: "test.pkl"
+
+split:
+  test_size: 0.2
+  val_size: 0.1
+
+logging:
+  log_dir: "logs/"
+  log_level: "INFO"
+
+mlflow:
+  experiment_name: "NER_Data_Preparation"
+  tracking_uri: "file:./mlflow_logs"

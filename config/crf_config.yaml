@@ -1,0 +1,33 @@
+general:
+  project_root: "./"
+
+data:
+  raw_data_path: "data/raw/ner_dataset.csv"
+  processed_data_path: "data/processed/"
+  train_file: "train.pkl"
+  val_file: "val.pkl"
+  test_file: "test.pkl"
+
+model:
+  model_name: "CRF"
+  c1: 0.1       # Coefficient for L1 regularization
+  c2: 0.1       # Coefficient for L2 regularization
+  max_iterations: 100
+  algorithm: "lbfgs"  # Optimization algorithm
+
+training:
+  batch_size: 32
+  epochs: 20
+  learning_rate: 0.001
+
+logging:
+  log_dir: "logs/"
+  log_level: "INFO"
+
+mlflow:
+  experiment_name: "NER_CRF_Model"
+  tracking_uri: "file:./mlflow_logs"
+
+deployment:
+  model_save_path: "models/crf/"
+  inference_output_path: "results/crf/"
