@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/PublicisSapient_NER/mlruns/0/ca496d22683d4bf59bee42f378b9f2e9/artifacts
+end_time: 1746861673693
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ca496d22683d4bf59bee42f378b9f2e9
+run_name: legendary-turtle-737
+run_uuid: ca496d22683d4bf59bee42f378b9f2e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746861673686
+status: 4
+tags: []
+user_id: codespace

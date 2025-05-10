@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/PublicisSapient_NER/mlruns/0/d0aba6181f734411a57b392de412f403/artifacts
+end_time: 1746860526831
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d0aba6181f734411a57b392de412f403
+run_name: resilient-eel-741
+run_uuid: d0aba6181f734411a57b392de412f403
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746860523359
+status: 3
+tags: []
+user_id: codespace

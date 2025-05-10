@@ -1,0 +1,35 @@
+general:
+  project_root: "./"
+
+model:
+  model_name: "BiLSTM-CRF"
+  embedding_dim: 20
+  hidden_dim: 64
+  num_layers: 2
+  dropout: 0.5
+  batch_size: 16
+  learning_rate: 0.001
+  epochs: 5
+  optimizer: "Adam"
+  max_grad_norm: 5.0
+
+training:
+  train_file: "bilstm_train.pkl"
+  val_file: "bilstm_val.pkl"
+  test_file: "bilstm_test.pkl"
+  vocab_file: "vocab.pkl"
+  tag_map_file: "tag_map.pkl"
+  processed_data_path: "data/processed/"
+
+logging:
+  log_dir: "logs/"
+  log_level: "INFO"
+  log_interval: 5
+
+mlflow:
+  experiment_name: "NER_BiLSTM_CRF_Model"
+  tracking_uri: "file:./mlflow_logs"
+
+deployment:
+  model_save_path: "models/bilstm_crf/"
+  inference_output_path: "results/bilstm_crf/"

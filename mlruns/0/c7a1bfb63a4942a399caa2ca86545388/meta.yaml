@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/PublicisSapient_NER/mlruns/0/c7a1bfb63a4942a399caa2ca86545388/artifacts
+end_time: 1746860879178
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c7a1bfb63a4942a399caa2ca86545388
+run_name: rumbling-robin-668
+run_uuid: c7a1bfb63a4942a399caa2ca86545388
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746860879147
+status: 4
+tags: []
+user_id: codespace

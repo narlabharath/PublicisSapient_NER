@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/PublicisSapient_NER/mlruns/0/1c230c09da59412c823f099892bc9ec7/artifacts
+end_time: 1746861334545
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1c230c09da59412c823f099892bc9ec7
+run_name: spiffy-asp-886
+run_uuid: 1c230c09da59412c823f099892bc9ec7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746861334520
+status: 4
+tags: []
+user_id: codespace

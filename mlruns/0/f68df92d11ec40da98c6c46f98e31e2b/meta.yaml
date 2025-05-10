@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/PublicisSapient_NER/mlruns/0/f68df92d11ec40da98c6c46f98e31e2b/artifacts
+end_time: 1746860343769
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f68df92d11ec40da98c6c46f98e31e2b
+run_name: classy-snake-487
+run_uuid: f68df92d11ec40da98c6c46f98e31e2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746860343742
+status: 4
+tags: []
+user_id: codespace

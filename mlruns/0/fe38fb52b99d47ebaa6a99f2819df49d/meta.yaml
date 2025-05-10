@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/PublicisSapient_NER/mlruns/0/fe38fb52b99d47ebaa6a99f2819df49d/artifacts
+end_time: 1746860146610
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fe38fb52b99d47ebaa6a99f2819df49d
+run_name: puzzled-chimp-913
+run_uuid: fe38fb52b99d47ebaa6a99f2819df49d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746860146493
+status: 4
+tags: []
+user_id: codespace

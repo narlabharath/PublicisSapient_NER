@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/PublicisSapient_NER/mlruns/0/674ae8faf6d249839105c3670654e355/artifacts
+end_time: 1746862451796
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 674ae8faf6d249839105c3670654e355
+run_name: selective-stoat-37
+run_uuid: 674ae8faf6d249839105c3670654e355
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746862451711
+status: 4
+tags: []
+user_id: codespace

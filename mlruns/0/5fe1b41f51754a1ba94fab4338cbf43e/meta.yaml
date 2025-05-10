@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/PublicisSapient_NER/mlruns/0/5fe1b41f51754a1ba94fab4338cbf43e/artifacts
+end_time: 1746862725566
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5fe1b41f51754a1ba94fab4338cbf43e
+run_name: auspicious-flea-119
+run_uuid: 5fe1b41f51754a1ba94fab4338cbf43e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746862725536
+status: 4
+tags: []
+user_id: codespace
