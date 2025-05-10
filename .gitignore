@@ -1,0 +1,93 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+.env/
+.venv/
+
+# MLflow logs and experiments
+mlflow_logs/
+*.db
+
+# Logs and Output files
+logs/
+*.log
+*.out
+*.err
+
+# Data files
+data/raw/
+data/processed/
+*.csv
+*.tsv
+*.json
+
+# Model Checkpoints and Artifacts
+models/
+*.pt
+*.pkl
+*.joblib
+*.h5
+
+# Intermediate Results and Cache
+results/
+*.npy
+*.npz
+*.hdf5
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+notebooks/.ipynb_checkpoints/
+
+# Streamlit cache
+.streamlit/
+
+# IDE and Editor Settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Python packages
+*.egg-info/
+*.egg
+*.pyd
+*.so
+*.dll
+
+# Hidden files
+.*.swp
+*.bak
+
+# GitHub Codespaces and Docker files
+*.dockerignore
+docker-compose.yml
+Dockerfile
+
+# FastAPI and Streamlit server logs
+*.pid
+*.sock
+*.log
+
+# Secret files (do not commit sensitive info)
+secrets.yaml
+*.env
+
+# Large data or model files
+*.tar.gz
+*.zip
+*.tar
+*.gz
+*.bz2
+
+# Temporary files and backups
+*.tmp
+*.temp
+*.backup
